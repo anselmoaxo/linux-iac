@@ -1,4 +1,4 @@
-# Iac.sh - Script de Automação para Criação de Diretórios e Usuários no Linux
+# iacL.sh - Script de Automação para Criação de Diretórios e Usuários no Linux
 
 Este script Bash automatiza a criação de diretórios, grupos de usuários e usuários no ambiente Linux.
 
@@ -12,4 +12,4 @@ Este script Bash automatiza a criação de diretórios, grupos de usuários e us
 2. Script:
    
    ```bash
-   ./Iac.sh
+   ./iacL.sh
