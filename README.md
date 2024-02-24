@@ -9,4 +9,7 @@ Este script Bash automatiza a criação de diretórios, grupos de usuários e us
    ```bash
    git clone https://github.com/anselmoaxo/seu-repositorio.git
 
-./Iac.sh
+2. Script:
+   
+   ```bash
+   ./Iac.sh
