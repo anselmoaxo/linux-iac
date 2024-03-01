@@ -7,7 +7,7 @@ Este script Bash automatiza a criação de diretórios, grupos de usuários e us
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/anselmoaxo/seu-repositorio.git
+   git clone https://github.com/anselmoaxo/linux-iac.git
 
 2. Script:
    
